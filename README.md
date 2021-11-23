@@ -1,2 +1,2 @@
 # PlayImageSequence
-Play image sequence wiht Qt
+Play image sequence with Qt
